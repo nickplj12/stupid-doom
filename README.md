@@ -5,7 +5,7 @@ fork of prboom that makes it idiotic
 
 
 ## how build??
-if you are seeing this when we have a makefile, type "make run" and it will build and run
+first of all, why would you want to build this, second of all if you are seeing this when we have a makefile, type "make run" and it will build and run
 
 ## license
 what is the is??
