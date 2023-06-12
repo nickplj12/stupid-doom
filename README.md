@@ -22,6 +22,7 @@ clyde from discord says this:
 
 > The GNU General Public License version 2 (GPLv2) is a widely-used free software license that allows users to access, modify, and distribute the source code of a software program. It requires that any modified versions of the code also be released under the same license, and places certain restrictions on how the software can be used and distributed. Essentially, it is designed to ensure that users have the freedom to use and modify the software, while also protecting the original author's copyright.
 
+<details>
 <summary>names made up by clyde</summary>
 clyde said the above was inappropriate, so here are clyde's suggestions
 
