@@ -2,6 +2,9 @@
 fork of prboom that makes it idiotic
 ![logo](https://github.com/nickplj12/stupid-doom/assets/78268270/34a22f9c-fef6-4eec-b739-7aa9f09da01f)
 
+## how build??
+if you are seeing this when we have a makefile, type "make run" and it will build and run
+
 ## license
 what is the is??
  here it is is ths\
@@ -21,10 +24,12 @@ stupid-doom - the name of the repository as of 6/11/2023.
 
 ### names made up by clyde
 clyde said the above was inappropriate, so here are clyde's suggestions
+
 Silly Doom
+
 Weird Doom
 
-#### the weird english words
+#### the weirder english words
 ##### doom
 
 Conflate Doom
